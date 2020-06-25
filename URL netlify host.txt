@@ -1,0 +1,2 @@
+https://news-grid-1234.netlify.app/index.html   -- NewsGrid website host
+https://financial-flex-1234.netlify.app/        -- Financial hotel website 
